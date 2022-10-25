@@ -1,0 +1,156 @@
+header {
+  background-color: #333333;
+}
+.header1 {
+  width: 1000px;
+  margin: 0 auto;
+}
+.logo {
+  width: 150px;
+  color: aliceblue;
+  font-size: 48px;
+}
+.menu {
+  float: right;
+  display: flex;
+}
+
+.menu a {
+  float: right;
+  padding-top: 20px;
+  padding-right: 30px;
+  color: aliceblue;
+  text-decoration: none;
+}
+
+.cat1,
+.maskcontainer,
+.deals1,
+.categories,
+.brands1,
+.footerpoints {
+  width: 1000px;
+  margin: 0 auto;
+}
+.catmenu {
+  padding-top: 8px;
+  padding-bottom: 3px;
+  display: flex;
+}
+.catmenu a {
+  color: #333333;
+  padding-right: 23px;
+  font-size: 16px;
+  text-decoration: none;
+}
+.input {
+  padding-left: 200px;
+}
+input {
+  width: 180px;
+  height: 25px;
+  padding-right: 3px;
+  font-size: 12px;
+  border: solid #000 1px;
+}
+.maskcontainer {
+  display: flex;
+  justify-content: space-between;
+}
+.maskimg img {
+  padding-top: 50px;
+  width: 200px;
+}
+.mask {
+  background-color: rgb(236, 235, 235);
+}
+.words {
+  font-size: 58px;
+  padding-top: 70px;
+  color: #333333;
+}
+.para {
+  color: #333333;
+  font-size: 18px;
+  padding-left: 50px;
+}
+
+.subtitle {
+  font-size: 30px;
+  color: #333333;
+  padding-top: 5px;
+}
+span {
+  font-size: 40px;
+}
+#placeholder {
+  padding-top: 10px;
+  display: flex;
+  justify-content: space-around;
+}
+#placeholder p {
+  margin-top: 5px;
+  text-align: center;
+}
+#placeholder a {
+  text-decoration: none;
+  color: #333333;
+}
+#placeholder img {
+  width: 125px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.fashion,
+.fashion2 {
+  margin: 20px;
+  margin-left: 0;
+  display: flex;
+  justify-content: space-between;
+}
+.fashion a {
+  color: #333333;
+  text-decoration: none;
+}
+.fashion2 a {
+  color: #333333;
+  text-decoration: none;
+}
+
+.faci {
+  background-color: #dbf3fa;
+}
+.faci p {
+  margin-top: 0px;
+  margin-bottom: 2px;
+  text-align: center;
+}
+.faci img {
+  padding: 3px;
+}
+.brand1 p {
+  font-size: 14px;
+  color: #333333;
+  line-height: 20px;
+}
+.footer {
+  background-color: #131a22;
+  height: 300px;
+}
+.footerpoints ul {
+  color: white;
+  list-style: none;
+  font-size: 18px;
+  padding-left: 0px;
+}
+.footerpoints a {
+  text-decoration: none;
+  color: white;
+  font-size: 16px;
+}
+.footerpoints {
+  display: flex;
+}
+.myaccount {
+  padding-right: 70px;
+}
